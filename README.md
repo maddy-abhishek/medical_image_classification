@@ -1,12 +1,12 @@
-   MEDICAL_IMAGE_CLASSIFICATION
+# MEDICAL_IMAGE_CLASSIFICATION
 
 
-PROJECT DESCRIPTION:
+# PROJECT DESCRIPTION:
 
    This project focuses on Medical Image Classification using a pretrained Vision-Language Model (OpenAI’s CLIP: clip-vit-base-patch32). The goal is to classify images as either “medical” or “non-medical”, regardless of whether they are     sourced from a website URL or extracted from a PDF document.
 
 
-WE BUILT PIPELINE THAT:
+# WE BUILT PIPELINE THAT:
 
 1. Data Input: Accepts images from
    
@@ -23,7 +23,7 @@ WE BUILT PIPELINE THAT:
 5. Evaluation: Tracks inference speed and classification results for scalability testing.
 
 
-PLATFORMS AND TOOLS USED:
+# PLATFORMS AND TOOLS USED:
 
 1. Python (Jupyter Notebook) for development.
 
@@ -40,7 +40,7 @@ PLATFORMS AND TOOLS USED:
     -BeautifulSoup4, requests for web scraping
 
 
-OUTCOME:
+# OUTCOME:
 
 Created an end-to-end image classification pipeline that automatically extracts images from multiple sources and categorizes them.
 
