@@ -33,11 +33,11 @@ PLATFORMS AND TOOLS USED:
 
 4. Libraries:
    
-  -torchvision, PIL for image handling
+    -torchvision, PIL for image handling
   
-  -pdf2image, PyMuPDF for PDF extraction
+    -pdf2image, PyMuPDF for PDF extraction
   
-  -BeautifulSoup4, requests for web scraping
+    -BeautifulSoup4, requests for web scraping
 
 
 OUTCOME:
